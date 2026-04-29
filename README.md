@@ -74,7 +74,7 @@ The `/jar` directory collects `services.jar` files organized by device model and
 
 ## Related
 
-- [boox-ams-fix-patcher](https://github.com/tatanakots/boox-ams-fix-patcher) — Dynamic on-device patcher
+- [boox-ams-fix-patcher](https://github.com/tatanakots/boox-ams-fix-patcher) — Dynamic patcher
 - [boox-p6pro-root](https://github.com/dynamicfire/boox-p6pro-root) — Full root guide for P6 Pro (includes EDL bootloader unlock)
 
 ## Credits
