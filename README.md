@@ -14,7 +14,7 @@ Pre-packaged Magisk module downloads are available at:
 
 **Important:** Always download the package that matches your exact device model and firmware version. Packages for different firmware versions are **not interchangeable**.
 
-This repository also hosts a dynamic patcher at [boox-ams-fix-patcher](https://github.com/tatanakots/boox-ams-fix-patcher) for on-device patching.
+This repository also hosts a dynamic patcher at [boox-ams-fix-patcher](https://github.com/tatanakots/boox-ams-fix-patcher) for creating patched files.
 
 ## Problem
 
